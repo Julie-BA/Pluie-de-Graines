@@ -1,5 +1,6 @@
 # Pluie-de-Graines
 # Site WordPress Pluie de Graine
 
-# 27/09/21
 # V1.0 Creation d'un thème enfant 
+
+# V1.1 Création et ajout du plugin personnalisé "Julie_CTA"
